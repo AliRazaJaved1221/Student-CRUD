@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.dlt_icon{
+  color: red;
+  background-color: rgb(186, 142, 252);
+  border: none;
+  font-size:larger;
+}
+.dlt_icon2{
+  color: green;
+  background-color: rgb(186, 142, 252);
+  border: none;
+  font-size:larger; 
+  margin-left: 0.5rem;
+}
+.dlt_icon3{
+  color: blue;
+  background-color: rgb(186, 142, 252);
+  border: none;
+  font-size:larger;
+  margin-left: 0.5rem;
+}
